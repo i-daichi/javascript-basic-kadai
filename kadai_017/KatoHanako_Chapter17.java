@@ -1,0 +1,9 @@
+class KatoHanako_Chapter17 extends Kato_Chapter17{
+   public void setGivenName(){
+        super.givenName="花子";
+   }
+
+    void eachIntroduce(){
+        Svstem.out.println("趣味は読書です");
+    };
+}
